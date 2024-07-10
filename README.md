@@ -1,2 +1,29 @@
-# OFET-insight-hub
-this is a project that was created during my undergraduate project in physics, it consists in the automation of the characterization of OFET organic transistors.  It consists mainly of two kinds of objects, ofet and set_ofet where recursively create graphs, calculate parameters and extract in excel tables. 
+# caract_ofet_3.0
+This is the actual state of the carac ofet v3 using POO for the calculus and the logical thinking
+
+
+
+#graficos
+
+agregar los errores a las graficas.
+
+crear diccionarios para nombrar las graficas, meter todo en otro script.
+
+saturacion : tomar todas las graficas y hacer una animacion, toma un max_eje_Y fijo con el maximo de todos los maximos en el eje Y.
+
+mejorar la seleccion del punto critico en caso no funcione la primera forma de escogencia.
+
+
+#Electric parameters
+
+add the roots of the model to the data
+
+
+
+
+
+
+#
+
+
+
